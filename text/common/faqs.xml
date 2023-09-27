@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FAQs>
+  <FAQ>
+    <question>
+      What payment methods do you accept?      
+    </question>
+    <answer>
+      We accept cash and checks.  No credit cards are accepted.
+    </answer>
+  </FAQ>
+  <FAQ>
+    <question>
+      What are your hours of operation?
+    </question>
+    <answer>
+      Monday to Friday: 9:00am - 5:00pm
+      Saturday: 9:00am - 4:00pm
+      Outside normal hours, please contact us to make an appointment.
+    </answer>
+  </FAQ>
+  <FAQ>
+    <question>
+      How can I contact you?
+    </question>
+    <answer>
+      You can reach us via phone or email as indicated below.
+    </answer>
+  </FAQ>
+</FAQs>

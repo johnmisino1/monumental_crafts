@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MonumentalCrafts", "http://localhost/MonumentalCrafts", "{2F143772-1754-4539-AAE3-6A159F3A107C}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "false"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/MonumentalCrafts"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Projects\Monumental Crafts\trunk\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\MonumentalCrafts\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/MonumentalCrafts"
+		Release.AspNetCompiler.PhysicalPath = "D:\Projects\Monumental Crafts\trunk\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\MonumentalCrafts\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "D:\Projects\Monumental Crafts\trunk\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F143772-1754-4539-AAE3-6A159F3A107C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F143772-1754-4539-AAE3-6A159F3A107C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

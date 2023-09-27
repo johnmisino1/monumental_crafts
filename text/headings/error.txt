@@ -1,0 +1,2 @@
+﻿<HeadingTitle>Error
+<HeadingStart>An error has occurred.<HeadingEnd>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Products>
+  <Product>
+    <name>single_markers</name>
+    <price>$650</price>
+    <image>velazquez.jpg</image>
+  </Product>
+  <Product>
+    <name>single_slants</name>
+    <price>$770</price>
+    <image>hernandez.jpg</image>
+  </Product>
+  <Product>
+    <name>single_monuments</name>
+    <price>$1340</price>
+    <image>mcgarvey.jpg</image>
+  </Product>
+  <Product>
+    <name>single_hearts</name>
+    <price>Quote per job</price>
+    <image>odonnell.jpg</image>
+  </Product>
+  <Product>
+    <name>double_markers</name>
+    <price>$885</price>
+    <image>shaffer.jpg</image>
+  </Product>
+  <Product>
+    <name>double_slants</name>
+    <price>$1240</price>
+    <image>ganssle.jpg</image>
+  </Product>
+  <Product>
+    <name>double_monuments</name>
+    <price>$1650</price>
+    <image>christman.jpg</image>
+  </Product>
+  <Product>
+    <name>double_hearts</name>
+    <price>Quote per job</price>
+    <image>schleppy.jpg</image>
+  </Product>
+  <Product>
+    <name>single_bronze</name>
+    <price>Quote per job</price>
+    <image>langton.jpg</image>
+  </Product>
+  <Product>
+    <name>double_bronze</name>
+    <price>Quote per job</price>
+    <image>washburn.jpg</image>
+  </Product>
+  <Product>
+    <name>benches</name>
+    <price>Quote per job</price>
+    <image>falk.jpg</image>
+  </Product>
+  <Product>
+    <name>custom_monuments</name>
+    <price>Quote per job</price>
+    <image>doncsecz.jpg</image>
+  </Product>
+</Products>
